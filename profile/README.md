@@ -12,7 +12,7 @@ Welcome to the master code repository of the [AlberdiLab](https://www.alberdilab
 
 ## Projects
 
-| Package | Description | Status | Repository | Bookdown |
+| Study | Title | Status | Repository | Bookdown |
 |---|---|---|---|---|
 | **Aizpurua et al. 2024** | Functional insights into the effect of feralisation on the gut microbiota of cats worldwide | [Preprint](https://www.biorxiv.org/content/10.1101/2024.09.04.611329v2) | [Repo](https://github.com/alberdilab/microbiota_adaptation_review) | [Book](https://alberdilab.github.io/domestic_feral_cat_metagenomics/) |
 | **Martin-Bideguren et al. 2023** | Quantitative synthesis of microbe-driven acclimation and adaptation in wild vertebrates | Under review | [Repo](https://github.com/alberdilab/microbiota_adaptation_review) | Book |
