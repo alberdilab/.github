@@ -1,11 +1,21 @@
-# AlberdiLab repository
-This is the master repository of the AlberdiLab research group at the Universit of Copenhagen, which hosts and links repos produced in out team with relevant code, data and software.
+# AlberdiLab
+
+Welcome to the master code repository of the [AlberdiLab](https://www.alberdilab.dk) research group at the University of Copenhagen. This organisational Github account hosts and links code repositories produced in our research group, including relevant code, data and software.
 
 ## Software
 
+| Package | Description | Link  |
+|---|---|---|
+| **CompleteR** | R package for functional imputation of incomplete microbial genomes | [Repository](https://github.com/anttonalberdi/completer) |
+| **DistillR** | R package for functional distillation of microbiome annotations  | [Repository](https://github.com/anttonalberdi/distillR)  |
+| **Hilldiv2** | R package for diversity analyses based on Hill numbers | [Repository](https://github.com/anttonalberdi/hilldiv2) |
+
+### CompleteR
+
+
 ### DistillR
 distillR is an R package for distilling functional annotations of bacterial genomes and metagenomes into meaningful quantitative metrics defined as Genome-Inferred Functional Traits (GIFT).
-https://github.com/anttonalberdi/distillR
+
 
 ### hilldiv2
 hilldiv2 is an R package that provides a set of functions to assist analysis of diversity for diet reconstruction, microbial community profiling or more general ecosystem characterisation analyses based on Hill numbers, using OTU/ASV/MAG tables, and associated phylogenetic trees and trait/attribute tables as inputs. 
