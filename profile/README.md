@@ -11,6 +11,8 @@ Welcome to the master code repository of the [AlberdiLab](https://www.alberdilab
 | **Hilldiv3** | R package for diversity analyses based on Hill numbers | [Repository](https://github.com/alberdilab/hilldiv3) |
 | **BarcodeMapper** | Taxonomic profiling of shotgun metagenomes by mapping reads to COI and ITS barcode references | [Repository](https://github.com/alberdilab/barcodemapper) |
 | **MjolnirTools** | Tools for working on the Mjolnir HPC | [Repository](https://github.com/alberdilab/mjolnirtools) |
+| **LMDmapper** | Open-source desktop tool for spatial mapping of laser microdissection samples | [Repository](https://github.com/anttonalberdi/lmdmapper) · [Paper](https://doi.org/10.12688/openreseurope.24543.1) |
+| **EHItk** | Toolkit for accessing Earth Hologenome Initiative data resources | [Repository](https://github.com/earthhologenome/ehitk) · [Paper](https://doi.org/10.1093/bioadv/vbag199) |
 
 ## Projects
 
