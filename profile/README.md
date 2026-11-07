@@ -1,20 +1,26 @@
 # AlberdiLab
 
-Welcome to the master code repository of the [AlberdiLab](https://www.alberdilab.dk) research group at the University of Copenhagen. This organisational Github account hosts and links code repositories produced in our research group, including relevant code, data and software.
+Welcome to the master code repository of the [AlberdiLab](https://www.alberdilab.dk) research group at the University of Copenhagen. This organisational GitHub account hosts and links code repositories produced in our research group, including relevant code, data and software.
 
 ## Software
 
-| Package | Description | Link  |
+| Package | Description | Link |
 |---|---|---|
-| **CompleteR** | R package for functional imputation of incomplete microbial genomes | [Repository](https://github.com/anttonalberdi/completer) |
-| **DistillR** | R package for functional distillation of microbiome annotations  | [Repository](https://github.com/anttonalberdi/distillR)  |
-| **Hilldiv2** | R package for diversity analyses based on Hill numbers | [Repository](https://github.com/anttonalberdi/hilldiv2) |
+| **Drakkar** | Metagenomics pipeline optimised for Mjolnir | [Repository](https://github.com/alberdilab/drakkar) |
+| **DistillR** | R package for distilling functional annotations of bacterial genomes and metagenomes | [Repository](https://github.com/alberdilab/distillr) |
+| **Hilldiv3** | R package for diversity analyses based on Hill numbers | [Repository](https://github.com/alberdilab/hilldiv3) |
+| **BarcodeMapper** | Taxonomic profiling of shotgun metagenomes by mapping reads to COI and ITS barcode references | [Repository](https://github.com/alberdilab/barcodemapper) |
+| **MjolnirTools** | Tools for working on the Mjolnir HPC | [Repository](https://github.com/alberdilab/mjolnirtools) |
 
 ## Projects
 
 | Study | Title | Status | Repository | Bookdown |
 |---|---|---|---|---|
 | **Aizpurua et al. 2025** | Dietary intervention in captive-bred hares fails to enrich gut microbiomes with wild-like functions | [Preprint](https://www.biorxiv.org/content/10.1101/2024.12.03.626655v1.full) | [Repo](https://github.com/alberdilab/lepus_metagenomics) | [Book](https://alberdilab.github.io/lepus_metagenomics/) |
-| **Aizpurua et al. 2024** | Functional insights into the effect of feralisation on the gut microbiota of cats worldwide | [Preprint](https://www.biorxiv.org/content/10.1101/2024.09.04.611329v2) | [Repo](https://github.com/alberdilab/microbiota_adaptation_review) | [Book](https://alberdilab.github.io/domestic_feral_cat_metagenomics/) |
-| **Martin-Bideguren et al. 2023** | Quantitative synthesis of microbe-driven acclimation and adaptation in wild vertebrates | Under review | [Repo](https://github.com/alberdilab/microbiota_adaptation_review) | Book |
-| **Eisenhofer et al. 2023** | Impact of microbial genome completeness on metagenomic functional inference | [Published](https://www.nature.com/articles/s43705-023-00221-z) | [Repo](https://github.com/anttonalberdi/completeness_function_bias)  | NA |
+| **Aizpurua et al. 2024** | Functional insights into the effect of feralisation on the gut microbiota of cats worldwide | [Preprint](https://www.biorxiv.org/content/10.1101/2024.09.04.611329v2) | [Repo](https://github.com/alberdilab/domestic_feral_cat_metagenomics) | [Book](https://alberdilab.github.io/domestic_feral_cat_metagenomics/) |
+| **Martin-Bideguren et al. 2024** | Quantitative synthesis of microbe-driven acclimation and adaptation in wild vertebrates | [Published](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.70025) | [Repo](https://github.com/alberdilab/microbiota_adaptation_review) | NA |
+| **Eisenhofer et al. 2023** | Impact of microbial genome completeness on metagenomic functional inference | [Published](https://www.nature.com/articles/s43705-023-00221-z) | [Repo](https://github.com/anttonalberdi/completeness_function_bias) | NA |
+| **Hernández et al. 2025** | Metagenomic comparison of sample types in lizards | [Published](https://link.springer.com/article/10.1186/s42523-025-00381-4) | [Repo](https://github.com/alberdilab/lizard_sample_types) | NA |
+| **Aizpurua et al. 2026** | Calotriton metagenomics | [Published](https://academic.oup.com/ismecommun/article-abstract/doi/10.1093/ismeco/ycag106/8658237) | [Repo](https://github.com/alberdilab/calotriton_metagenomics) | NA |
+| **Eisenhofer et al.** | Assembly and binning strategy study | Under review | [Repo](https://github.com/alberdilab/assembly_binning_strategies) | NA |
+| **Aizpurua et al.** | Amplicon sequencing vs. genome-resolved metagenomics in bats | Under review | [Repo](https://github.com/alberdilab/amplicon_shotgun_bats) | NA |
